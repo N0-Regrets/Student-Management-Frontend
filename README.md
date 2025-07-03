@@ -1,6 +1,12 @@
 # StudentManagementFront
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
+
+
+## Live Demo
+You can try the live version of this application here:
+[Student Management App Live](https://student-management-a868b.web.app/home)
+The hosted application connects to the [backend](https://github.com/N0-Regrets/Student-Management) API to perform all student management operations — adding, viewing, updating, and deleting students in real time.
+
 
 ## Development server
 
